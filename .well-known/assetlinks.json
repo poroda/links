@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "FitnessVillage",
+    "package_name": "com.FitnessVillage.FitnessVillage",
+    "sha256_cert_fingerprints":
+    ["78:0A:37:5E:C3:58:7F:BB:69:CC:30:0C:A3:F3:2C:DC:64:39:78:03:E3:C0:69:82:5F:CE:D2:58:FE:F9:C2:4F"]
+  }
+}]
